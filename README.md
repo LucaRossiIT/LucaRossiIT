@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **developing a platform for financial transactions, which is based on the principles of blockchain decentralization technology. My goal is to create an innovative solution that allows users to conduct financial transactions without intermediaries, ensuring security and transparency of the process. By working on this project, I aim to apply the principles of decentralization to create a more efficient and equitable financial system, open to all.**
 
+- 🌱 I am actively learning **and exploring new technologies. At the moment, I am delving into the study of machine learning and artificial intelligence. I am interested in applying these technologies in data analysis and developing intelligent solutions for business.**
+
 - ⚡ Fun fact **During my work with cryptocurrencies, I encountered the remarkable concept of decentralization. Imagine: data and transactions can be stored and processed without centralized control. This opens the doors to new possibilities in the world of finance and technology, and I am inspired by this idea. Decentralization has the potential to change traditional business models, which prompts me to view blockchain from a new perspective.**
 
 <h3 align="left">Connect with me:</h3>
